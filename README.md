@@ -5,4 +5,7 @@ Hello all!
 I am getting started with GitHub environment.
 Please welcome me to your world.
 
-THank you!
+Thank you!
+
+This is my representative character.
+![Image of Hung](Images/Superman.jpg)
