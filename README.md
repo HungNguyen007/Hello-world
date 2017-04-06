@@ -8,4 +8,5 @@ Please welcome me to your world.
 Thank you!
 
 This is my representative character.
-![Image of Hung](Images/Superman.jpg)
+
+![Image of Hung](https://github.com/HungNguyen007/Images/blob/master/Superman.jpg)
