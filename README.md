@@ -9,4 +9,4 @@ Thank you!
 
 This is my representative character.
 
-![Image of Hung](https://github.com/HungNguyen007/Images/blob/master/Superman.jpg)
+![Image of Hung](https://github.com/HungNguyen007/Images/blob/master/Superman01.png)
