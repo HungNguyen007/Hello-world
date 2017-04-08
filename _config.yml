@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Welcome to Hung's homepage.
-include: https://github.com/HungNguyen007/Hello-world/blob/master/Images/Superman01.png
+highlighter: rouge
+include: [https://github.com/HungNguyen007/Hello-world/blob/master/Images/Superman01.png]
