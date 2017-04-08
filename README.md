@@ -11,4 +11,4 @@ This is my representative character.
 
 ![Image of Hung](https://github.com/HungNguyen007/Images/blob/master/Superman01.png)
 
-![Image of Hung 1](https://github.com/HungNguyen007/Hello-world/blob/master/Images/Superman01.png)
+![Image of Hung 1](Hello-world/Images/Superman01.png)
