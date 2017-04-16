@@ -3,3 +3,4 @@ title: Welcome to Hung's homepage.
 highlighter: rouge
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
